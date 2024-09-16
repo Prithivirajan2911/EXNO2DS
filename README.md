@@ -1,7 +1,7 @@
 # EXNO2DS
 
-## NAME: KATHIR ANAND S
-## REG.NO: 212223100018
+## NAME: PRITHIVIRAJAN V
+## REG.NO: 212223100042
 
 # AIM:
 To perform Exploratory Data Analysis on the given data set.
